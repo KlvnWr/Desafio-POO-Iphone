@@ -1,1 +1,0 @@
-INDEX VERSION 1.134+/home/kelvin/Documents/Workspace/Java/Iphone/.metadata/.plugins/org.eclipse.jdt.core
