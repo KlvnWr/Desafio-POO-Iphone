@@ -2,7 +2,7 @@ package apps;
 
 public class Phone {
 	public static void ligar(String numero) {
-		System.out.println("Ligando...");
+		System.out.println("Ligando para o numero " + numero);
 	}
 	
 	public static void atender() {

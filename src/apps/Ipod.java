@@ -9,7 +9,7 @@ public class Ipod {
 		System.out.println("Pausando a música");
 	}
 
-	public void selecionarMusica(String musica) {
+	void selecionarMusica(String musica) {
 		System.out.println("Selecionando a música " + musica);
 		tocar();
 	}
